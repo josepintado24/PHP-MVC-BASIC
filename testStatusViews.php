@@ -9,7 +9,7 @@ $statusData=array(
     'status'=>'HomeHomeHomeHome'
 );
 $statusController->update($statusData);
-$statusController->delete(10);
+$statusController->delete('10');
 $data=$statusController->read();
 var_dump($data);
 echo "
