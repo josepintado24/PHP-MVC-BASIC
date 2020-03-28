@@ -5,7 +5,7 @@
   <a href="#">PHP 7</a> |
   <a href="#">phpStorm</a> |
   <a href="#">2020</a> 
-  <br><br>Class Mmodel<br>
+  <br><br>Class Model<br>
   <img src="https://raw.githubusercontent.com/josepintado24/PHP-MVC-BASIC/master/img/CodeModel.png">
   <img src="https://raw.githubusercontent.com/josepintado24/PHP-MVC-BASIC/master/img/CapturaViewTableStatus.png">
 </p>
